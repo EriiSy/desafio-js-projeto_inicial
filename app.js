@@ -7,7 +7,7 @@ let numeroDeVendas = 50;
 let saldoDisponivel = 1000; 
 
 // Solicitação de Alerta
-alert('Erro! Preencha todos os campos')
+alert('Erro! Preencha todos os campos');
 
 // Pedido para a criação de uma mensagem de erro que irá ficar
 // salva em mensagemDeErro
